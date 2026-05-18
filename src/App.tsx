@@ -236,11 +236,20 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                      <path d="M12 22s7-7 7-12a7 7 0 0 0-14 0c0 5 7 12 7 12z" />
-                      <circle cx="12" cy="10" r="2.5" />
-                    </svg>
-                    Lisboa, Portugal
+                    <a
+                      href="https://www.google.com/maps/search/?api=1&query=R.+do+Mourato+70A+9600-224+Ribeira+Grande"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                        <path d="M12 22s7-7 7-12a7 7 0 0 0-14 0c0 5 7 12 7 12z" />
+                        <circle cx="12" cy="10" r="2.5" />
+                      </svg>
+                      <span>
+                        R. do Mourato n.º 70A<br />
+                        9600-224 Ribeira Grande
+                      </span>
+                    </a>
                   </li>
                 </ul>
               </div>
