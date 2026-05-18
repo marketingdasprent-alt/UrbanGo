@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import logoUrl from '/image.png'
 import './App.css'
 
 function App() {
