@@ -34,11 +34,11 @@ function App() {
 
         <nav className={`nav-links ${menuOpen ? 'is-open' : ''}`}>
           <a href="#sobre" onClick={() => setMenuOpen(false)}>Sobre</a>
-          <a href="#servicos" onClick={() => setMenuOpen(false)}>Serviços</a>
-          <a href="#porque" onClick={() => setMenuOpen(false)}>Porquê UrbanGo</a>
+          <a href="#frota" onClick={() => setMenuOpen(false)}>Frota</a>
+          <a href="#como-funciona" onClick={() => setMenuOpen(false)}>Como funciona</a>
           <a href="#contacto" onClick={() => setMenuOpen(false)}>Contacto</a>
           <a href="#contacto" className="nav-cta" onClick={() => setMenuOpen(false)}>
-            Avisem-me
+            Quero uma viatura
           </a>
         </nav>
 
@@ -59,13 +59,13 @@ function App() {
           </span>
 
           <h1 className="title">
-            A sua próxima viagem <br />
-            <span className="title-accent">começa em breve.</span>
+            Viaturas TVDE para <br />
+            <span className="title-accent">quem quer trabalhar.</span>
           </h1>
           <p className="subtitle">
-            A UrbanGo é o novo operador TVDE em Portugal. Estamos a preparar
-            uma forma mais rápida, mais próxima e mais segura de circular
-            pela cidade.
+            A UrbanGo é o novo operador TVDE em Portugal.
+            Estamos a preparar uma forma mais rápida, 
+            mais próxima e mais segura de circular pela cidade.
           </p>
 
           <form id="contacto" className="signup" onSubmit={onSubmit}>
@@ -73,17 +73,17 @@ function App() {
               <>
                 <input
                   type="email"
-                  placeholder="O seu email"
+                  placeholder="O seu email ou telemóvel"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   required
-                  aria-label="Email"
+                  aria-label="Email ou telemóvel"
                 />
-                <button type="submit">Avisem-me no lançamento</button>
+                <button type="submit">Quero uma viatura</button>
               </>
             ) : (
               <div className="signup-success">
-                Obrigado! Falamos consigo assim que estivermos prontos.
+                Recebemos o seu contacto. Falamos consigo em breve.
               </div>
             )}
           </form>
@@ -94,77 +94,78 @@ function App() {
             <div>
               <p className="eyebrow">Sobre nós</p>
               <h2 className="section-title">
-                Mobilidade urbana, feita para quem vive a cidade.
+                Uma operadora TVDE feita por quem conhece a estrada.
               </h2>
             </div>
             <div className="section-body">
               <p>
-                A UrbanGo nasce com uma missão simples: tornar cada viagem
-                mais rápida, mais previsível e mais humana. Combinamos
-                tecnologia, motoristas certificados e um cuidado real com
-                quem viaja connosco.
+                A UrbanGo é uma operadora TVDE licenciada que disponibiliza
+                viaturas a motoristas profissionais em Portugal. Trabalhamos
+                como ponte entre o motorista e as principais plataformas do
+                mercado — Uber e Bolt — para que se concentre apenas no que
+                faz melhor: conduzir.
               </p>
               <p>
-                Operamos como TVDE devidamente licenciado, com foco em
-                qualidade de serviço, transparência de preços e disponibilidade
-                permanente — onde estiver, à hora que precisar.
+                Cuidamos da viatura, dos seguros, das inspeções e da gestão
+                administrativa. O motorista escolhe o slot que melhor se
+                ajusta à sua disponibilidade e começa a trabalhar.
               </p>
             </div>
           </div>
         </section>
 
-        <section id="servicos" className="section section--alt">
-          <p className="eyebrow center">Serviços</p>
-          <h2 className="section-title center">O que vamos oferecer</h2>
+        <section id="frota" className="section section--alt">
+          <p className="eyebrow center">Frota</p>
+          <h2 className="section-title center">Viaturas prontas a trabalhar</h2>
           <ul className="cards">
             <li className="card">
               <FeatureIcon type="city" />
-              <h3>Viagens urbanas</h3>
-              <p>Deslocações rápidas dentro da cidade, com preço justo e tempo de espera reduzido.</p>
+              <h3>Viaturas elegíveis</h3>
+              <p>Modelos aprovados pela Uber e Bolt, recentes, com baixa quilometragem e em ótimo estado.</p>
             </li>
             <li className="card">
-              <FeatureIcon type="airport" />
-              <h3>Aeroporto</h3>
-              <p>Transferes pontuais de e para o aeroporto, com acompanhamento de voo.</p>
+              <FeatureIcon type="shield" />
+              <h3>Tudo incluído</h3>
+              <p>Seguro, manutenção, IUC, inspeção e assistência em viagem — sem custos surpresa.</p>
             </li>
             <li className="card">
               <FeatureIcon type="business" />
-              <h3>Empresas</h3>
-              <p>Contas empresariais com faturação simplificada e relatórios de utilização.</p>
+              <h3>Slots flexíveis</h3>
+              <p>Turnos diurnos, noturnos ou 24h. Adapte-se ao seu ritmo e ao que dá mais retorno.</p>
             </li>
           </ul>
         </section>
 
-        <section id="porque" className="section">
-          <p className="eyebrow center"><span className="keep-case">Porquê UrbanGo</span></p>
-          <h2 className="section-title center">Pensado para si</h2>
+        <section id="como-funciona" className="section">
+          <p className="eyebrow center">Como funciona</p>
+          <h2 className="section-title center">Comece em 3 passos</h2>
           <ul className="features">
             <li>
               <FeatureIcon type="route" />
               <div>
-                <h3>Rotas inteligentes</h3>
-                <p>Chegue mais depressa, sem desvios desnecessários.</p>
+                <h3>1. Candidate-se</h3>
+                <p>Envie os seus dados e certificado TVDE. Validamos a sua candidatura em 24h.</p>
               </div>
             </li>
             <li>
-              <FeatureIcon type="shield" />
+              <FeatureIcon type="business" />
               <div>
-                <h3>Motoristas certificados</h3>
-                <p>Profissionais autorizados e viagens 100% seguras.</p>
-              </div>
-            </li>
-            <li>
-              <FeatureIcon type="clock" />
-              <div>
-                <h3>Disponível 24/7</h3>
-                <p>Onde estiver, a qualquer hora, em qualquer dia.</p>
+                <h3>2. Escolha o seu slot</h3>
+                <p>Selecione a viatura e o turno que melhor se ajustam ao seu objetivo de rendimento.</p>
               </div>
             </li>
             <li>
               <FeatureIcon type="price" />
               <div>
-                <h3>Preço transparente</h3>
-                <p>Sabe quanto vai pagar antes de começar a viagem.</p>
+                <h3>3. Comece a faturar</h3>
+                <p>Levante a viatura, ligue-se à Uber/Bolt e comece já no mesmo dia a trabalhar.</p>
+              </div>
+            </li>
+            <li>
+              <FeatureIcon type="clock" />
+              <div>
+                <h3>Apoio sempre</h3>
+                <p>Equipa disponível 7 dias por semana para qualquer dúvida ou imprevisto.</p>
               </div>
             </li>
           </ul>
@@ -180,8 +181,8 @@ function App() {
                 <span className="brand-name">UrbanGo</span>
               </a>
               <p className="foot-tag">
-                Operador TVDE em Portugal. <br />
-                A sua viagem, com a UrbanGo.
+                Operadora TVDE em Portugal. <br />
+                Viaturas para motoristas Uber e Bolt.
               </p>
               <div className="socials">
                 <a href="#" aria-label="Instagram" className="social">
@@ -209,8 +210,8 @@ function App() {
                 <h4>Navegação</h4>
                 <ul>
                   <li><a href="#sobre">Sobre</a></li>
-                  <li><a href="#servicos">Serviços</a></li>
-                  <li><a href="#porque">Porquê UrbanGo</a></li>
+                  <li><a href="#frota">Frota</a></li>
+                  <li><a href="#como-funciona">Como funciona</a></li>
                   <li><a href="#contacto">Contacto</a></li>
                 </ul>
               </div>
