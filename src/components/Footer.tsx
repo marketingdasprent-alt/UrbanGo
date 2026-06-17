@@ -16,8 +16,8 @@ export function Footer() {
               <span className="brand-name">UrbanGo</span>
             </a>
             <p className="foot-tag">
-              Operadora TVDE em Portugal. <br />
-              Viaturas para motoristas Uber e Bolt.
+              Mobilidade e logística em Portugal. <br />
+              TVDE, entrega expresso e aluguer de viaturas.
             </p>
             <div className="socials">
               <a href="#" aria-label="Instagram" className="social">
@@ -45,7 +45,7 @@ export function Footer() {
               <h4>Navegação</h4>
               <ul>
                 <li><a href="/#sobre" onClick={(e) => { e.preventDefault(); navigate('/'); setTimeout(() => document.querySelector('#sobre')?.scrollIntoView({ behavior: 'smooth' }), 0) }}>Sobre</a></li>
-                <li><a href="/#frota" onClick={(e) => { e.preventDefault(); navigate('/'); setTimeout(() => document.querySelector('#frota')?.scrollIntoView({ behavior: 'smooth' }), 0) }}>Frota</a></li>
+                <li><a href="/#servicos" onClick={(e) => { e.preventDefault(); navigate('/'); setTimeout(() => document.querySelector('#servicos')?.scrollIntoView({ behavior: 'smooth' }), 0) }}>Serviços</a></li>
                 <li><a href="/#como-funciona" onClick={(e) => { e.preventDefault(); navigate('/'); setTimeout(() => document.querySelector('#como-funciona')?.scrollIntoView({ behavior: 'smooth' }), 0) }}>Como funciona</a></li>
                 <li><a href="/#contacto" onClick={(e) => { e.preventDefault(); navigate('/'); setTimeout(() => document.querySelector('#contacto')?.scrollIntoView({ behavior: 'smooth' }), 0) }}>Contacto</a></li>
               </ul>
@@ -63,11 +63,11 @@ export function Footer() {
                   </a>
                 </li>
                 <li>
-                  <a href="tel:+351000000000">
+                  <a href="tel:+351910128228">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                       <path d="M5 4h3l2 5-2.5 1.5a11 11 0 0 0 6 6L15 14l5 2v3a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z" />
                     </svg>
-                    +351 000 000 000
+                    +351 910 128 228
                   </a>
                 </li>
                 <li>

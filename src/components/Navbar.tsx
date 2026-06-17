@@ -42,11 +42,11 @@ export function Navbar({ variant = 'home' }: { variant?: 'home' | 'page' }) {
 
       <nav className={`nav-links ${menuOpen ? 'is-open' : ''}`}>
         <a href="/#sobre" onClick={(e) => goHome(e, '#sobre')}>Sobre</a>
-        <a href="/#frota" onClick={(e) => goHome(e, '#frota')}>Frota</a>
+        <a href="/#servicos" onClick={(e) => goHome(e, '#servicos')}>Serviços</a>
         <a href="/#como-funciona" onClick={(e) => goHome(e, '#como-funciona')}>Como funciona</a>
         <a href="/#contacto" onClick={(e) => goHome(e, '#contacto')}>Contacto</a>
         <a href="/#contacto" className="nav-cta" onClick={(e) => goHome(e, '#contacto')}>
-          Quero uma viatura
+          Pedir orçamento
         </a>
       </nav>
 

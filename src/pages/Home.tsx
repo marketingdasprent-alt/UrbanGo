@@ -19,13 +19,13 @@ export function Home() {
         </span>
 
         <h1 className="title">
-          Viaturas TVDE para <br />
-          <span className="title-accent">quem quer trabalhar.</span>
+          Mobilidade e logística <br />
+          <span className="title-accent">à medida de Portugal.</span>
         </h1>
         <p className="subtitle">
-          A UrbanGo é o novo operador TVDE em Portugal.
-          Estamos a preparar uma forma mais rápida,
-          mais próxima e mais segura de circular pela cidade.
+          A UrbanGo é uma operadora de mobilidade em Portugal. Disponibilizamos
+          viaturas TVDE para motoristas Uber e Bolt, serviços de entrega
+          expresso e aluguer de viaturas ligeiras de passageiros e comerciais.
         </p>
 
         <form id="contacto" className="signup" onSubmit={onSubmit}>
@@ -39,7 +39,7 @@ export function Home() {
                 required
                 aria-label="Email ou telemóvel"
               />
-              <button type="submit">Quero uma viatura</button>
+              <button type="submit">Pedir orçamento</button>
             </>
           ) : (
             <div className="signup-success">
@@ -54,78 +54,89 @@ export function Home() {
           <div>
             <p className="eyebrow">Sobre nós</p>
             <h2 className="section-title">
-              Uma operadora TVDE feita por quem conhece a estrada.
+              Uma operadora de mobilidade feita por quem conhece a estrada.
             </h2>
           </div>
           <div className="section-body">
             <p>
-              A UrbanGo é uma operadora TVDE licenciada que disponibiliza
-              viaturas a motoristas profissionais em Portugal. Trabalhamos
-              como ponte entre o motorista e as principais plataformas do
-              mercado — Uber e Bolt — para que se concentre apenas no que
-              faz melhor: conduzir.
+              A UrbanGo é uma operadora licenciada que combina três áreas
+              complementares de mobilidade e logística: TVDE, entrega expresso
+              e aluguer de viaturas ligeiras de passageiros e comerciais.
             </p>
             <p>
-              Cuidamos da viatura, dos seguros, das inspeções e da gestão
-              administrativa. O motorista escolhe o slot que melhor se
-              ajusta à sua disponibilidade e começa a trabalhar.
+              Servimos motoristas que querem trabalhar nas plataformas Uber
+              e Bolt, empresas que precisam de entregas rápidas e fiáveis, e
+              particulares ou empresas que procuram aluguer flexível — tudo
+              com a mesma exigência de serviço.
             </p>
           </div>
         </div>
       </section>
 
-      <section id="frota" className="section section--alt">
-        <p className="eyebrow center">Frota</p>
-        <h2 className="section-title center">Viaturas prontas a trabalhar</h2>
+      <section id="servicos" className="section section--alt">
+        <p className="eyebrow center">Serviços</p>
+        <h2 className="section-title center">O que fazemos por si</h2>
         <ul className="cards">
           <li className="card">
-            <FeatureIcon type="city" />
-            <h3>Viaturas elegíveis</h3>
-            <p>Modelos aprovados pela Uber e Bolt, recentes, com baixa quilometragem e em ótimo estado.</p>
+            <FeatureIcon type="tvde" />
+            <h3>Viaturas TVDE</h3>
+            <p>
+              Viaturas aprovadas pela Uber e Bolt, com seguro, manutenção e
+              inspeção incluídos. Slots flexíveis para motoristas começarem
+              a trabalhar no mesmo dia.
+            </p>
           </li>
           <li className="card">
-            <FeatureIcon type="shield" />
-            <h3>Tudo incluído</h3>
-            <p>Seguro, manutenção, IUC, inspeção e assistência em viagem — sem custos surpresa.</p>
+            <FeatureIcon type="delivery" />
+            <h3>Entrega expresso</h3>
+            <p>
+              Recolha e entrega rápida na sua área. Documentos, encomendas e
+              cargas urgentes — entregues com prova de entrega e
+              acompanhamento em tempo real.
+            </p>
           </li>
           <li className="card">
-            <FeatureIcon type="business" />
-            <h3>Slots flexíveis</h3>
-            <p>Turnos diurnos, noturnos ou 24h. Adapte-se ao seu ritmo e ao que dá mais retorno.</p>
+            <FeatureIcon type="car" />
+            <h3>Aluguer de viaturas</h3>
+            <p>
+              Aluguer de viaturas ligeiras de passageiros e comerciais. Diário,
+              semanal ou mensal, com seguro e assistência incluídos —
+              ideal para particulares e empresas.
+            </p>
           </li>
         </ul>
       </section>
 
       <section id="como-funciona" className="section">
         <p className="eyebrow center">Como funciona</p>
-        <h2 className="section-title center">Comece em 3 passos</h2>
+        <h2 className="section-title center">Simples e direto ao ponto</h2>
         <ul className="features">
           <li>
             <FeatureIcon type="route" />
             <div>
-              <h3>1. Candidate-se</h3>
-              <p>Envie os seus dados e certificado TVDE. Validamos a sua candidatura em 24h.</p>
-            </div>
-          </li>
-          <li>
-            <FeatureIcon type="business" />
-            <div>
-              <h3>2. Escolha o seu slot</h3>
-              <p>Selecione a viatura e o turno que melhor se ajustam ao seu objetivo de rendimento.</p>
+              <h3>1. Diga-nos o que precisa</h3>
+              <p>Viatura TVDE, entrega expresso ou aluguer — fale connosco com o seu pedido.</p>
             </div>
           </li>
           <li>
             <FeatureIcon type="price" />
             <div>
-              <h3>3. Comece a faturar</h3>
-              <p>Levante a viatura, ligue-se à Uber/Bolt e comece já no mesmo dia a trabalhar.</p>
+              <h3>2. Receba o seu orçamento</h3>
+              <p>Apresentamos a melhor opção, com preços transparentes e sem custos surpresa.</p>
             </div>
           </li>
           <li>
             <FeatureIcon type="clock" />
             <div>
-              <h3>Apoio sempre</h3>
-              <p>Equipa disponível 7 dias por semana para qualquer dúvida ou imprevisto.</p>
+              <h3>3. Comece já</h3>
+              <p>Levante a viatura, agende a entrega ou comece a faturar no mesmo dia.</p>
+            </div>
+          </li>
+          <li>
+            <FeatureIcon type="shield" />
+            <div>
+              <h3>Apoio 7 dias por semana</h3>
+              <p>Equipa disponível para qualquer dúvida, imprevisto ou pedido urgente.</p>
             </div>
           </li>
         </ul>

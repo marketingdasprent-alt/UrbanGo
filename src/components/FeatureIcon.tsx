@@ -1,6 +1,21 @@
-export type IconType = 'route' | 'shield' | 'clock' | 'price' | 'city' | 'airport' | 'business'
+export type IconType =
+  | 'route'
+  | 'shield'
+  | 'clock'
+  | 'price'
+  | 'city'
+  | 'airport'
+  | 'business'
+  | 'delivery'
+  | 'car'
+  | 'van'
+  | 'tvde'
 
 export function FeatureIcon({ type }: { type: IconType }) {
+  return <span className="icon-wrap">{renderIcon(type)}</span>
+}
+
+function renderIcon(type: IconType) {
   const common = {
     viewBox: '0 0 24 24',
     fill: 'none',
@@ -59,6 +74,43 @@ export function FeatureIcon({ type }: { type: IconType }) {
           <rect x="3" y="7" width="18" height="13" rx="2" />
           <path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
           <path d="M3 13h18" />
+        </svg>
+      )
+    case 'delivery':
+      return (
+        <svg {...common} aria-hidden="true">
+          <path d="M3 7h11v9H3z" />
+          <path d="M14 10h4l3 3v3h-7" />
+          <circle cx="7" cy="18" r="1.8" />
+          <circle cx="17" cy="18" r="1.8" />
+        </svg>
+      )
+    case 'car':
+      return (
+        <svg {...common} aria-hidden="true">
+          <path d="M4 14l2-5a2 2 0 0 1 2-1.5h8a2 2 0 0 1 2 1.5l2 5" />
+          <path d="M3 14h18v4H3z" />
+          <circle cx="7" cy="18" r="1.5" />
+          <circle cx="17" cy="18" r="1.5" />
+        </svg>
+      )
+    case 'van':
+      return (
+        <svg {...common} aria-hidden="true">
+          <path d="M3 7h10v10H3z" />
+          <path d="M13 10h5l3 3v4h-8" />
+          <circle cx="7" cy="18" r="1.8" />
+          <circle cx="17" cy="18" r="1.8" />
+        </svg>
+      )
+    case 'tvde':
+      return (
+        <svg {...common} aria-hidden="true">
+          <path d="M5 13l2-5a2 2 0 0 1 2-1.5h6a2 2 0 0 1 2 1.5l2 5" />
+          <path d="M4 13h16v5H4z" />
+          <circle cx="8" cy="18" r="1.4" />
+          <circle cx="16" cy="18" r="1.4" />
+          <path d="M9 10h6" />
         </svg>
       )
   }
