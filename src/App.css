@@ -80,14 +80,12 @@ html {
   height: 40px;
   width: auto;
   display: block;
-  
 }
 .brand-name {
-  font-family: 'Plavsky Condensed', 'Plus Jakarta Sans', var(--sans);
-  font-size: 28px;
-  font-weight: 700;
-  font-style: italic;
-  letter-spacing: 0.3px;
+  font-family: 'Rubik', 'Plus Jakarta Sans', var(--sans);
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
   color: var(--ink);
 }
 
