@@ -1,0 +1,5 @@
+{
+  "locale": "pt-PT",
+  "name": "Português",
+  "routes": {"/":"/","/motoristas/":"/motoristas/","/veiculos/":"/veiculos/","/como-funciona/":"/como-funciona/","/requisitos-tvde/":"/requisitos-tvde/","/sobre/":"/sobre/","/contactos/":"/contactos/","/faq/":"/faq/"}
+}
