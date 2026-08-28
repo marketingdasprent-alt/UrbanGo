@@ -3,7 +3,7 @@ import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 const out='dist';
 const pageFiles=['index.html','404.html','motoristas/index.html','veiculos/index.html','como-funciona/index.html','requisitos-tvde/index.html','sobre/index.html','contactos/index.html','faq/index.html','legal/privacidade.html','legal/cookies.html','legal/termos.html'];
 const english=JSON.parse(await readFile('assets/locales/en.json','utf8'));
-const version='20260828-shell2';
+const version='20260828-center';
 const navItems=[['/motoristas/','Motoristas'],['/veiculos/','Veículos'],['/como-funciona/','Como funciona'],['/requisitos-tvde/','Requisitos TVDE'],['/sobre/','Sobre'],['/faq/','Ajuda']];
 const active=(route,href)=>route===href?' aria-current="page"':'';
 
