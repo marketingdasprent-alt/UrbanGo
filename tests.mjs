@@ -10,5 +10,11 @@ for(const page of pages){
     for(const [,href] of html.matchAll(/href="([^"]+)"/g)){if(!href.startsWith('/')||href.startsWith('//')||href.startsWith('/en/assets/'))continue;const clean=href.split('#')[0].split('?')[0];if(!clean)continue;const target=clean.endsWith('/')?`${clean.slice(1)}index.html`:clean.slice(1);await stat(`dist/${target}`).catch(()=>{throw new Error(`${page}: link local quebrado ${href}`)});}
   }
 }
-for(const asset of ['dist/favicon.ico','dist/assets/images/urbango-driver-hero.webp','dist/assets/images/urbango-logo.png','dist/assets/vendor/intl-tel-input/js/intlTelInputWithUtils.min.js','dist/assets/locales/en.json'])await stat(asset);
+for(const asset of ['dist/favicon.ico','dist/assets/images/urbango-driver-hero.webp','dist/assets/images/urbango-driver-vehicle.jpg','dist/assets/images/urbango-logo.png','dist/assets/vendor/intl-tel-input/js/intlTelInputWithUtils.min.js','dist/assets/locales/en.json'])await stat(asset);
+for(const page of ['dist/index.html','dist/en/index.html']){
+  const html=await readFile(page,'utf8');
+  if(!html.includes('/assets/images/urbango-driver-vehicle.jpg'))throw new Error(`${page}: imagem da secção de veículos ausente`);
+  if(html.includes('vehicle-symbol'))throw new Error(`${page}: placeholder UG ainda presente`);
+  if((html.match(/footer-grid/g)||[]).length!==1)throw new Error(`${page}: rodapé partilhado inválido`);
+}
 console.log(`OK: ${pages.length*2} páginas PT/EN, links e assets essenciais validados.`);
