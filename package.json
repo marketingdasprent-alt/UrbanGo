@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "npx serve . -l 4173",
-    "test": "node tests.mjs",
+    "test": "node build.mjs && node tests.mjs",
     "build": "node build.mjs"
+  },
+  "dependencies": {
+    "intl-tel-input": "^25.3.1"
   }
 }
