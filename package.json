@@ -1,0 +1,10 @@
+{
+  "name": "urbango-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 4173",
+    "test": "node tests.mjs",
+    "build": "node build.mjs"
+  }
+}
