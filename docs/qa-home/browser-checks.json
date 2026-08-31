@@ -1,0 +1,2748 @@
+{
+  "pageChecks": [
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/404.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/motoristas/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/como-funciona/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/requisitos-tvde/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/contactos/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/faq/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/privacidade.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/cookies.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/legal/termos.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/veiculos/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/como-funciona/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/sobre/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/contactos/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 320
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 360
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 1366
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 1440
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/termos.html",
+      "width": 1920
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/veiculos/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/sobre/",
+      "width": 768
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/",
+      "width": 375
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/404.html",
+      "width": 430
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/motoristas/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 390
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/faq/",
+      "width": 1280
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html",
+      "width": 1024
+    },
+    {
+      "aligned": true,
+      "clipped": [],
+      "footerInside": true,
+      "logo": true,
+      "overflow": false,
+      "path": "/en/legal/cookies.html",
+      "width": 1024
+    }
+  ],
+  "cookieBannerLayout": [
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 430
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 768,
+      "lang": "pt",
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "pt",
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 1080,
+      "lang": "pt",
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 430
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 768,
+      "lang": "en",
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 640,
+      "lang": "en",
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "bannerInside": true,
+      "clippedActions": 0,
+      "height": 1080,
+      "lang": "en",
+      "overflow": false,
+      "width": 1920
+    }
+  ],
+  "cookieModal": [
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 430
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 1366
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "inside": true,
+      "necessaryDisabled": true,
+      "overflow": false,
+      "width": 1920
+    }
+  ],
+  "footerCenter": [
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/404.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/motoristas/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/veiculos/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/como-funciona/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/requisitos-tvde/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/sobre/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/contactos/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/faq/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/legal/privacidade.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/legal/cookies.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/legal/termos.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/404.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/motoristas/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/veiculos/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/como-funciona/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/requisitos-tvde/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/sobre/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/contactos/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/faq/"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/legal/privacidade.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/legal/cookies.html"
+    },
+    {
+      "offset": 0,
+      "overflow": false,
+      "path": "/en/legal/termos.html"
+    }
+  ]
+}
