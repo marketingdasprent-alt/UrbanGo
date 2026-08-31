@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "npx serve . -l 4173",
-    "test": "node build.mjs && node tests.mjs",
+    "dev": "node build.mjs && node scripts/serve.mjs",
+    "test": "node build.mjs && node tests.mjs && node tests-runtime.mjs",
     "build": "node build.mjs"
-  },
-  "dependencies": {
-    "intl-tel-input": "^25.3.1"
   }
 }

@@ -1,0 +1,71 @@
+{
+  "data": "2026-08-31",
+  "servidor": "http://127.0.0.1:4175/ (dist, scripts/serve.mjs)",
+  "secoesHome_1280x720": {
+    "hero": { "top": 79, "height": 643 },
+    "processo": { "top": 722, "height": 1083 },
+    "modalidades": { "top": 1804.875, "height": 871 },
+    "benefits": { "top": 2675.9375, "height": 643 },
+    "proof": { "top": 3318.9375, "height": 643 },
+    "final-cta": { "top": 3961.9375, "height": 190 },
+    "nota": "chapter-height calculado = 100svh - 77px = 643px em 720px de altura; benefits/proof cabem exatamente, processo/modalidades crescem naturalmente."
+  },
+  "headerHeightReal": {
+    "1280x720": 79,
+    "2560x1440": 79,
+    "390x844": 75,
+    "nota": "CSS assume --header-height:77px desktop / 75px <=640px. Real: 79px desktop (2px de diferença, sem impacto visual observado) e 75px mobile (exato)."
+  },
+  "confiancaFullBleed": {
+    "1280px": { "mediaLeft": 0, "objectPosition": "60% 50%" },
+    "2560px": { "mediaLeft": 0, "widthPct": 51.7, "gridTemplateColumns": "1323.39px 1221.59px" },
+    "390px": { "mediaWidthPct": 100.0, "layout": "imagem sobre texto, 2 linhas de grid" }
+  },
+  "hoverFocusCards": {
+    "dark_borderColor_normal": "rgb(8, 59, 76)",
+    "dark_borderColor_focusWithin": "rgba(255, 255, 255, 0.35)",
+    "light_borderColor_normal": "rgb(217, 226, 223)",
+    "light_borderColor_focusWithin": "rgba(25, 174, 212, 0.6)"
+  },
+  "overflowHorizontal": {
+    "360x800": false,
+    "390x844": false,
+    "430x932": false,
+    "768x1024": false,
+    "1024x1366": false,
+    "1366x768": false,
+    "1440x900": false,
+    "1920x1080": false,
+    "2560x1440": false
+  },
+  "modalityGridColunas": {
+    "1920px": "3 colunas (384px cada)",
+    "1024px": "2 colunas (476.5px cada) + 3º card centrado na linha seguinte",
+    "430px": "1 coluna"
+  },
+  "footer": {
+    "colunas_desktop": 5,
+    "colunas_grid_1440": "292.719px 195.141px 195.156px 195.141px 195.141px",
+    "alinhamentoTopo_5colunas_px": 4835,
+    "legalLinks_EN": ["Privacy", "Cookies", "Legal information", "Complaints Book", "Manage cookies"],
+    "livroReclamacoes": {
+      "href": "https://www.livroreclamacoes.pt/Inicio/",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "textoPT": "Livro de Reclamações",
+      "textoEN": "Complaints Book"
+    }
+  },
+  "backToTop": {
+    "ariaLabelPT": "Voltar ao topo",
+    "ariaLabelEN": "Back to top",
+    "thresholdPx": 500,
+    "hiddenAt500": true,
+    "visibleAt501": true,
+    "scrollBehaviorNormal": "smooth",
+    "scrollBehaviorReducedMotion": "instant"
+  },
+  "cookieBannerOrdemBotoes": ["Aceitar todos", "Usar só os necessários", "Gerir preferências"],
+  "console": "sem erros em nenhuma das interações/resoluções testadas",
+  "testes": "npm test (build.mjs + tests.mjs + tests-runtime.mjs) passou sem falhas"
+}
